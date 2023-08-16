@@ -1,0 +1,35 @@
+
+
+.card1{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+
+}
+
+.icon{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+
+}
+.gray{
+    background-color: rgb(21, 21, 21);
+}
+.gray1{
+    background-color: rgb(53, 52, 52);
+
+}
+.gray2{
+    background-color: rgb(79, 78, 78);
+
+
+}
+.gray3{
+
+    background-color: rgb(88, 87, 87);
+   
+}
